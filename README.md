@@ -23,5 +23,5 @@ Features:
 * Compact tier numbers (with X for tier 10)
 * National flags
 * Large and easy to read names
-* Unobtrusive <span style="color:#E6E24E">Premium</span> and <span style="color:#5DEF20">Special</span> availability stripes
+* Unobtrusive <span style="color:#E6E24E">Premium (gold)</span> and <span style="color:#5DEF20">Special (green)</span> availability stripes
 * Dark warning stripes if any autoloading gun is possible
