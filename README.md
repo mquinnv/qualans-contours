@@ -15,11 +15,11 @@ Examples:
 
 Features:
 * Class identification by color.
-  * <span style="color:#238C23">Lights</span>
-  * <span style="color:#967F25">Mediums</span>
-  * <span style="color:#B52F2F">Heavies</span>
-  * <span style="color:#2953A0">Tank Destroyers</span>
-  * <span style="color:#B52F97">Artillery</span>
+  * <span color="#238C23">Green Lights</span>
+  * <span style="color:#967F25">Brown Mediums</span>
+  * <span style="color:#B52F2F">Red Heavies</span>
+  * <span style="color:#2953A0">Blue Tank Destroyers</span>
+  * <span style="color:#B52F97">Purple Artillery</span>
 * Compact tier numbers (with X for tier 10)
 * National flags
 * Large and easy to read names
