@@ -1,0 +1,66 @@
+WOT-DATA,2
+{{ID}},En
+{{EN}},"Short tank names, in English"
+{{RU}},"Короткие названия, по-русски"
+{{Inherit}},NameShort/Wargaming
+france-AMX40,Duck
+germany-Pz_Sfl_IVc,Flak Bus
+ussr-R109_T54S,T-54 Light
+ussr-SU100Y,Box Tank
+germany-Waffentrager_E100,WT auf E100
+germany-JagdPz_E100,JägPz E100
+ussr-R112_T54_45,T-54 mod 1
+ussr-Object_140,Obj 140
+ussr-Object_261,Obj 261
+ussr-Object_430,Obj 430
+ussr-Object_907,Obj 907
+ussr-Object263,Obj 263
+ussr-Object268,Obj 268
+ussr-Object416,Obj 416
+ussr-R104_Object_430_II,Obj 430 II
+ussr-R110_Object_260,Obj 260
+ussr-R114_Object_244,Obj 244
+ussr-R53_Object_704,Obj 704
+germany-B-1bis_captured,Pz B2,#44
+germany-G107_PzKpfwIII_AusfK,Pz III K,#44
+germany-G108_PzKpfwII_AusfD,Pz II D,#44
+germany-GW_Mk_VIe,GPz Mk VI,#44
+germany-H39_captured,Pz 38H,#44
+germany-Indien_Panzer,Indien-Pz,#44
+germany-JagdPz_E100,JägPz E 100,#44
+germany-JagdPzIV,JägPz IV,#44
+germany-PanzerJager_I,Pz Jäg I,#44
+germany-Pz_II_AusfG,Pz II G,#44
+germany-Pz_IV_AusfA,Pz IV A,#44
+germany-Pz_IV_AusfD,Pz IV D,#44
+germany-Pz_IV_AusfH,Pz IV H,#44
+germany-Pz_Sfl_IVb,PzSfl IVb,#44
+germany-Pz35t,Pz 35 t,#44
+germany-Pz38_NA,Pz 38 nA,#44
+germany-Pz38t,Pz 38 t,#44
+germany-PzI,Pz I,#44
+germany-PzI_ausf_C,Pz I C,#44
+germany-PzII,Pz II,#44
+germany-PzII_J,Pz II J,#44
+germany-PzIII_A,Pz III A,#44
+germany-PzIII_AusfJ,Pz III,#44
+germany-PzIII_IV,Pz III/IV,#44
+germany-PzIII_training,Pz III,#44
+germany-PzIV,Pz IV,#44
+germany-PzIV_Hydro,Pz IV hydr,#44
+germany-PzIV_schmalturm,Pz IV S,#44
+germany-PzV_PzIV,Pz V/IV,#44
+germany-PzV_PzIV_ausf_Alfa,Pz V/IV A,#44
+germany-S35_captured,Pz S35,#44
+germany-Sturmpanzer_II,StPz II,#44
+germany-Waffentrager_IV,WT auf Pz IV,#44
+germany-Ltraktor,LOL Tr
+germany-Auf_Panther,Awful Panther
+germany-G100_Gtraktor_Krupp,Gros Tr
+germany-PzVI_Tiger_P,Tiger P
+uk-GB52_A45,FV201 A45
+uk-GB70_N_FV4202_105,FV4202 P
+usa-M41_Bulldog,Bulldog
+france-ELC_AMX,ELC AMX
+uk-GB31_Conqueror_Gun,Conqueror GC
+uk-GB48_FV215b_183,Deathstar
