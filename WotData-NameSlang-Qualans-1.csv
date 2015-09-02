@@ -5,12 +5,14 @@ WOT-DATA,2
 {{Inherit}},NameShort/Wargaming
 france-AMX40,Duck
 germany-Pz_Sfl_IVc,Flak Bus
-ussr-R109_T54S,T-54 Light
+ussr-R109_T54S,T-54 
 ussr-SU100Y,Box Tank
-germany-Waffentrager_E100,WT auf E100
+germany-Waffentrager_E100,Waffle E100
 germany-JagdPz_E100,JägPz E100
-ussr-R112_T54_45,T-54 mod 1
+ussr-R112_T54_45,T-54 M1
 ussr-Object_140,Obj 140
+ussr-M3_Stuart_LL,M3
+ussr-R105_BT_7A,BT-7A
 ussr-Object_261,Obj 261
 ussr-Object_430,Obj 430
 ussr-Object_907,Obj 907
@@ -20,47 +22,103 @@ ussr-Object416,Obj 416
 ussr-R104_Object_430_II,Obj 430 II
 ussr-R110_Object_260,Obj 260
 ussr-R114_Object_244,Obj 244
+ussr-R115_IS-3_auto,IS-3A
 ussr-R53_Object_704,Obj 704
-germany-B-1bis_captured,Pz B2,#44
-germany-G107_PzKpfwIII_AusfK,Pz III K,#44
-germany-G108_PzKpfwII_AusfD,Pz II D,#44
-germany-GW_Mk_VIe,GPz Mk VI,#44
-germany-H39_captured,Pz 38H,#44
-germany-Indien_Panzer,Indien-Pz,#44
-germany-JagdPz_E100,JägPz E 100,#44
-germany-JagdPzIV,JägPz IV,#44
-germany-PanzerJager_I,Pz Jäg I,#44
-germany-Pz_II_AusfG,Pz II G,#44
-germany-Pz_IV_AusfA,Pz IV A,#44
-germany-Pz_IV_AusfD,Pz IV D,#44
-germany-Pz_IV_AusfH,Pz IV H,#44
-germany-Pz_Sfl_IVb,PzSfl IVb,#44
-germany-Pz35t,Pz 35 t,#44
-germany-Pz38_NA,Pz 38 nA,#44
-germany-Pz38t,Pz 38 t,#44
-germany-PzI,Pz I,#44
-germany-PzI_ausf_C,Pz I C,#44
-germany-PzII,Pz II,#44
-germany-PzII_J,Pz II J,#44
-germany-PzIII_A,Pz III A,#44
-germany-PzIII_AusfJ,Pz III,#44
-germany-PzIII_IV,Pz III/IV,#44
-germany-PzIII_training,Pz III,#44
-germany-PzIV,Pz IV,#44
-germany-PzIV_Hydro,Pz IV hydr,#44
-germany-PzIV_schmalturm,Pz IV S,#44
-germany-PzV_PzIV,Pz V/IV,#44
-germany-PzV_PzIV_ausf_Alfa,Pz V/IV A,#44
-germany-S35_captured,Pz S35,#44
-germany-Sturmpanzer_II,StPz II,#44
-germany-Waffentrager_IV,WT auf Pz IV,#44
-germany-Ltraktor,LOL Tr
+ussr-MT25,Bathtub
+ussr-KV2,Stronk
+ussr-IS-7_fallout,IS-7
+ussr-Object_140_fallout,Obj 140
+ussr-R119_Object_777,Obj 777
+ussr-Object268_fallout,Obj 268
+ussr-SU-14,Scum Bus
+germany-B-1bis_captured,Pz B2g
+germany-G107_PzKpfwIII_AusfK,Pz III Kg
+germany-G108_PzKpfwII_AusfD,Pz II Dg
+germany-GW_Mk_VIe,GPz Mk VIg
+germany-H39_captured,Pz 38Hg
+germany-Indien_Panzer,Indien Pz
+germany-JagdPz_E100,Jageroo
+germany-JagdPzIV,Pz Jag IV
+germany-PanzerJager_I,Pz Jag I
+germany-Pz_II_AusfG,Pz II Gg
+germany-Pz_IV_AusfA,Pz IV Ag
+germany-Pz_IV_AusfD,Pz IV Dg
+germany-Pz_IV_AusfH,Pz IV Hg
+germany-Pz_Sfl_IVb,PzSfl IVBG
+germany-Pz35t,Pz 35t
+germany-Pz38_NA,Pz 38 nAg
+germany-Pz38t,Pz 38t
+germany-PzI,Pz Ig
+germany-PzI_ausf_C,Pz I Cg
+germany-PzII,Pz IIg
+germany-PzII_J,Seal Clubber
+germany-PzIII_A,Pz IIIA
+germany-PzIII_AusfJ,Pz IIIG
+germany-PzIII_IV,Pz III/IVg
+germany-PzIII_training,Pz IIIG
+germany-PzIV,Pz IVg
+germany-PzIV_Hydro,Pz IV H
+germany-PzIV_schmalturm,Pz IV SG
+germany-PzV_PzIV,Pz V/IVg
+germany-PzV_PzIV_ausf_Alfa,Pz V/IV AG
+germany-S35_captured,Pz S35G
+germany-Sturmpanzer_II,StPz IIG
+germany-Waffentrager_IV,Waffle IV
+germany-Ltraktor,LOL
 germany-Auf_Panther,Awful Panther
+germany-G78_Panther_M10,Panther M10
 germany-G100_Gtraktor_Krupp,Gros Tr
 germany-PzVI_Tiger_P,Tiger P
+germany-Pro_Ag_A,Leopard Prot
+germany-G89_Leopard1_fallout,Leopard 1
+germany-DW_II,Derpwagon
+germany-RhB_Waffentrager,Borsig
+germany-JagdTiger_SdKfz_185,Jag 88
+germany-G112_KanonenJagdPanzer,Kanonen
+germany-G_Panther,GW Panther
+germany-GW_Tiger_P,GW Tiger P
+germany-G_Tiger,GW Tiger
+germany-G_E,GW E 100
 uk-GB52_A45,FV201 A45
 uk-GB70_N_FV4202_105,FV4202 P
 usa-M41_Bulldog,Bulldog
 france-ELC_AMX,ELC AMX
-uk-GB31_Conqueror_Gun,Conqueror GC
+uk-GB31_Conqueror_Gun,Conqueror
 uk-GB48_FV215b_183,Deathstar
+usa-A36_Sherman_Jumbo,Jumbo
+usa-M4A3E8_Sherman,Easy 8
+usa-A80_T26_E4_SuperPershing,Super P
+usa-T1_hvy,T1
+usa-T110_fallout,T110E5
+usa-T57_58,T57
+usa-T57_58_fallout,T57
+usa-T28_Prototype,T28 Prot
+usa-T95,Doom Turtle
+france-AMX_12t,12 Ton
+france-AMX_13_75,AMX 13 75
+france-AMX_13_90,AMX 13 90
+france-F69_AMX13_57_100,AMX 13 57
+france-F69_AMX13_57_100_GrandFinal,AMX 13 57
+france-Lorraine40t,Lorraine
+france-Bat_Chatillon25t,Batchat
+france-Bat_Chatillon25t_fallout,Batchat
+france-F65_FCM_50t,50 Ton
+france-F10_AMX_50B_fallout,AMX 50 B
+france-FCM_36Pak40,36 Pak 40
+france-_105_leFH18B2,Battleboat
+france-Lorraine39_L_AM,Lorraine 39L
+france-AMX_Ob_Am105,AMX 105
+france-AMX_105AM,AMX 13
+france-Lorraine155_50,Lorraine 50
+france-Lorraine155_51,Lorraine 51
+france-Bat_Chatillon155_55,Batchat 55
+france-Bat_Chatillon155_58,Batchat 58
+uk-GB77_FV304,Bert
+uk-GB29_Crusader_5inch,Crusader
+uk-GB25_Loyd_Carrier,Loyd
+japan-NC27,R Otsu
+japan-J19_Tiger_I_Jpn,Tiger #6
+germany-PzVI,Tiger
+uk-GB63_TOG_II,TOG
+germany-G106_PzKpfwPanther_AusfF,Panther 88
+germany-Sturer_Emil,Sturer Emil
