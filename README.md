@@ -7,11 +7,11 @@ They were designed primarily to be used in over target markers.
 
 Examples:
 
-![T2 Light](res_mods/0.9.10/gui/maps/icon/vehicle/contour/usa-T2_lt.png)
-![Bat Chat](res_mods/0.9.10/gui/maps/icon/vehicle/contour/france-Bat_Chatillon25t.png)
-![E75](res_mods/0.9.10/gui/maps/icon/vehicle/contour/germany-E-75.png)
-![ISU-152](res_mods/0.9.10/gui/maps/icon/vehicle/contour/ussr-ISU-152.png)
-![FV304](res_mods/0.9.10/gui/maps/icon/vehicle/contour/uk-GB77_FV304.png)
+![T2 Light](icons/usa-T2_lt.png)
+![Bat Chat](icons/france-Bat_Chatillon25t.png)
+![E75](icons/germany-E-75.png)
+![ISU-152](icons/ussr-ISU-152.png)
+![FV304](icons/uk-GB77_FV304.png)
 
 Features:
 * Class identification by color.
