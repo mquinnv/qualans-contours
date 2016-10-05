@@ -3,184 +3,161 @@ WOT-DATA,2
 {{EN}},"Short tank names, in English"
 {{RU}},"Короткие названия, по-русски"
 {{Inherit}},NameShort/Wargaming
-france-AMX40,Duck
-germany-Pz_Sfl_IVc,Flak Bus
-ussr-R109_T54S,T-54 
-ussr-SU100Y,Box Tank
-germany-Waffentrager_E100,Waffle E100
-germany-JagdPz_E100,Jageroo
+ussr-R11_MS-1_bot,MS-1 Bot
+ussr-R03_BT-7,BT-7A
+ussr-R67_M3_LL,M3
+ussr-R109_T54S,T-54
+ussr-R118_T28_F30,T-28E
 ussr-R112_T54_45,T-54 M1
-ussr-Object_140,Obj 140
-ussr-M3_Stuart_LL,M3
-ussr-R105_BT_7A,BT-7A
-ussr-Object_261,Obj 261
-ussr-Object_430,Obj 430
-ussr-Object_907,Obj 907
-ussr-Object263,Obj 263
-ussr-Object268,Obj 268
-ussr-Object416,Obj 416
+ussr-R127_T44_100_P,T-44-100
 ussr-R104_Object_430_II,Obj 430 II
-ussr-R110_Object_260,Obj 260
+ussr-R96_Object_430,Obj 430
+ussr-R97_Object_140,Obj 140
+ussr-R120_T22SR_A22,T-22
+ussr-R87_T62A_fallout,T-62A
+ussr-R95_Object_907,Obj 907
+ussr-R95_Object_907A,Obj 907A
 ussr-R114_Object_244,Obj 244
-ussr-R115_IS-3_auto,IS-3A
+ussr-R128_KV4_Kreslavskiy,Kreslavskiy
+ussr-R110_Object_260,Obj 260
+ussr-R119_Object_777,Obj 777 II
+ussr-R129_Object_257,Obj 257
+ussr-R45_IS-7_fallout,IS-7
+ussr-R49_SU100Y,Boxtank
 ussr-R53_Object_704,Obj 704
-ussr-MT25,MT-25
-ussr-KV2,KV-2
-ussr-IS-7_fallout,IS-7
-ussr-Object_140_fallout,Obj 140
-ussr-R119_Object_777,Obj 777
-ussr-Object268_fallout,Obj 268
-ussr-SU-14,SU-14-2
-germany-B-1bis_captured,Pz B2
-germany-G107_PzKpfwIII_AusfK,Pz III K
+ussr-R88_Object268,Obj 268
+ussr-R93_Object263,Obj 268
+ussr-R126_Object_730_5,Obj 268 5
+ussr-R52_Object_261,Obj 261
+germany-G12_Ltraktor,LOL
+germany-G12_Ltraktor_bot,LOL Bot
+germany-G07_Pz35t,Pz 35t
+germany-G53_PzI,Pz I
+germany-G06_PzII_bot,Pz II Bot
+germany-G06_PzII,Pz II
 germany-G108_PzKpfwII_AusfD,Pz II D
-germany-GW_Mk_VIe,GPz Mk VIg
-germany-H39_captured,Pz 38 Hg
-germany-Indien_Panzer,Indien Pz
-germany-JagdPz_E100,Jageroo
-germany-JagdPzIV,Pz Jag IV
-germany-PanzerJager_I,Pz Jag I
-germany-Pz_II_AusfG,Pz II G
-germany-Pz_IV_AusfA,Pz IV A
-germany-Pz_IV_AusfD,Pz IV D
-germany-Pz_IV_AusfH,Pz IV H
-germany-Pz_Sfl_IVb,PzSfl IV bg
-germany-Pz35t,Pz 35t
-germany-Pz38_NA,Pz 38t nA
-germany-Pz38t,Pz 38t
-germany-PzI,Pz Ig
-germany-PzI_ausf_C,Pz I C
-germany-PzII,Pz II G
-germany-PzII_J,Pz II J
-germany-PzIII_A,Pz III A
-germany-PzIII_AusfJ,Pz III G
-germany-PzIII_IV,Pz III/IV G
-germany-PzIII_training,Pz III G
-germany-PzIV,Pz IV G
-germany-PzIV_Hydro,Hydrostat
-germany-PzIV_schmalturm,Schmalturm
-germany-PzV_PzIV,Pz V/IV G
-germany-PzV_PzIV_ausf_Alfa,Pz V/IV A
-germany-S35_captured,Pz S35 G
-germany-Sturmpanzer_II,StPz II G
-germany-Waffentrager_IV,Waffle IV
-germany-Ltraktor,LOL
-germany-Auf_Panther,Awful Pz
-germany-G78_Panther_M10,PantherM10
+germany-G33_H39_captured,Pz 38 H
+germany-G08_Pz38t,Pz 38t
+germany-G14_PzIII_A,Pz III E
+germany-G63_PzI_ausf_C,Pz I C
+germany-G82_Pz_II_AusfG,Pz II G
+germany-G50_T-15,Pz T-15
+germany-G36_PzII_J,Pz II J
+germany-G52_Pz38_NA, Pz 38 nA
+germany-G85_Auf_Panther,Awful Panther
+germany-G120_M41_90,Blackdog
+germany-G120_M41_90_GrandFinal,Blackdog
+germany-G10_PzIII_AusfJ_training,Pz III
+germany-G03_PzV_Panther_training,Panther
+germany-G83_Pz_IV_AusfA,Pz IV A
+germany-G34_S35_captured,Pz S35
 germany-G100_Gtraktor_Krupp,Gros Tr
-germany-PzVI_Tiger_P,Tiger P
-germany-Pro_Ag_A,Leopard Prot
-germany-G89_Leopard1_fallout,Leopard 1
-germany-DW_II,Derpwagon
-germany-RhB_Waffentrager,Borsig
-germany-JagdTiger_SdKfz_185,Jag 88
+germany-G10_PzIII_AusfJ,Pz III
+germany-G80_Pz_IV_AusfD,Pz IV D
+germany-G28_PzIII_IV,Pz III/IV
+germany-G81_Pz_IV_AusfH,Pz IV H
+germany-G46_T-25,Pz T25
+germany-G107_PzKpfwIII_AusfK,Pz III K
+germany-G116_Turan_III_prot,Turan III
+germany-G32_PzV_PzIV,Pz V/IV
+germany-G32_PzV_PzIV_ausf_Alfa,Pz V/IV A
+germany-G70_PzIV_Hydro,Hydrostat
+germany-G79_Pz_IV_AusfGH,Pz IV
+germany-G32_PzV_PzIV_ausf_Alfa_CN,Pz V BP A
+germany-G32_PzV_PzIV_CN,Pz V BP
+germany-G77_PzIV_Schmalturm,Schmalturm
+germany-G88_Indien_Panzer,Indien Pz
+germany-G106_PzKpfwPanther_AusfF,Panther 88
+germany-G119_Panzer58,Pz 58
+germany-G119_Pz58_Mutz,Mutz
+germany-G91_Pro_Ag_A,Leopard A
+germany-G90_DW_II,Derpwagon
+germany-G35_B-1bis_captured,Pz B2
+germany-G122_VK6501H,VK 65.01 H
+germany-G57_PzVI_Tiger_P,Tiger P
+germany-G21_PanzerJager_1,Pz Jag I
+germany-G76_Pz_Sfl_IVc,Toaster
+germany-G17_JagdPzIV,Flat Pz
+germany-G43_Sturer_Emil,Sturer Emil
+germany-G99_RhB_Waffentrager,Borsig
+germany-G65_JagdTiger_SdKfz_185_IGR,Jag 88
 germany-G112_KanonenJagdPanzer,Kanonen
-germany-G_Panther,Panther
-germany-GW_Tiger_P,Tiger P
-germany-G_Tiger,Tiger
-germany-G_E,E 100
-uk-GB52_A45,FV201 A45
-uk-GB70_N_FV4202_105,FV4202 P
-usa-M41_Bulldog,Bulldog
-france-ELC_AMX,ELC AMX
-uk-GB31_Conqueror_Gun,Conqueror
-uk-GB48_FV215b_183,Deathstar
+germany-G65_JagdTiger_SdKfz_185,Jag 88
+germany-G97_Waffentrager_IV,Waffle IV
+germany-G72_JagdPz_E100,Jageroo
+germany-G98_Waffentrager_E100,Waffle E100
+germany-G93_GW_Mk_VIe,Mk VI
+germany-G22_Sturmpanzer_II,Sturm Pz II
+germany-G95_Pz_Sfl_IVb,Pz Sfl IV B
+germany-G49_G_Panther,Panther
+germany-G94_GW_Tiger_P,Tiger P
+germany-G45_G_Tiger,Tiger II
+germany-G61_G_E,E 100
+germany-G114_Rheinmetall_Skorpian,Skorpion
+usa-A01_T1_Cunningham_bot,T1 Bot
+usa-A02_M2_lt,M2
+usa-A19_T2_lt,T2
+usa-A93_T7_Combat_Car,Combat Car
+usa-A97_M41_Bulldog,Bulldog
+usa-A06_M4A3E8_Sherman_training,Easy 8
+usa-A24_T2_med,T2
+usa-A24_T2_med_bot,T2 Bot
+usa-A25_M2_med,M2
+usa-A78_M4_Improved,M4 Imp
+usa-A06_M4A3E8_Sherman,Easy 8
 usa-A36_Sherman_Jumbo,Jumbo
-usa-M4A3E8_Sherman,Easy 8
 usa-A80_T26_E4_SuperPershing,Super P
-usa-T1_hvy,T1
-usa-T110_fallout,T110E5
-usa-T57_58,T57
-usa-T57_58_fallout,T57
-usa-T28_Prototype,T28 Prot
-usa-T95,DoomTurtle
-france-AMX_12t,12 Ton
-france-AMX_13_75,AMX 13 75
-france-AMX_13_90,AMX 13 90
-france-F69_AMX13_57_100,AMX 13 57
-france-F69_AMX13_57_100_GrandFinal,AMX 13 57
-france-Lorraine40t,Lorraine
-france-Bat_Chatillon25t,Batchat
-france-Bat_Chatillon25t_fallout,Batchat
+usa-A09_T1_hvy,T1
+usa-A45_M6A2E1,Mutant
+usa-A67_T57_58,T57
+usa-A68_T28_Prototype,T28 Prot
+usa-A40_T95,Doom Turtle
+france-F62_ELC_AMX,ELC AMX
+france-F14_AMX40,Duck
+france-F15_AMX_12t,12 Ton
+france-F73_M4A1_Revalorise,Ravioli
+france-F75_Char_de_25t,Bat-Chat AP
+france-F19_Lorraine40t,Lorraine
+france-F18_Bat_Chatillon25t,Bat-Chat
+france-F18_Bat_Chatillon25t_IGR,Bat-Chat
 france-F65_FCM_50t,50 Ton
 france-F10_AMX_50B_fallout,AMX 50 B
-france-FCM_36Pak40,36 Pak 40
-france-_105_leFH18B2,leFH 18B2
-france-Lorraine39_L_AM,Lorraine 39L
-france-AMX_Ob_Am105,AMX 105
-france-AMX_105AM,AMX 13
-france-Lorraine155_50,Lorraine 50
-france-Lorraine155_51,Lorraine 51
-france-Bat_Chatillon155_55,Batchat 55
-france-Bat_Chatillon155_58,Batchat 58
+france-F27_FCM_36Pak40,36 Pak 40
+france-F21_Lorraine39_L_AM,AMX 39L
+france-F66_AMX_Ob_Am105,AMX 105
+france-F22_AMX_105AM,AMX 13
+france-F28_105_leFH18B2_IGR,Lefty
+france-F28_105_leFH18B2,Lefty
+france-F24_Lorraine155_50,Lorr 155 50
+france-F25_Lorraine155_51,Lorr 155 51
+france-F69_AMX13_57_100_GrandFinal,AMX 13 57
+china-Ch06_Renault_NC31_bot,NC-31 Bot
+uk-GB35_Sentinel_AC_IV,AC 4
+uk-GB70_N_FV4202_105,FV4202 P
+uk-GB24_Centurion_Mk3,Cent 7/1
+uk-GB86_Centurion_Action_X,Action X
+uk-GB87_Chieftain_T95_turret,Chieftain
+uk-GB52_A45,FV201 A45
+uk-GB88_T95_Chieftain_turret,T95
+uk-GB42_Valentine_AT,Valentine
+uk-GB40_Gun_Carrier_Churchill,Churchill
+uk-GB48_FV215b_183,Deathstar
+uk-GB83_FV4005,Shitbarn
 uk-GB77_FV304,Bert
 uk-GB29_Crusader_5inch,Crusader
-uk-GB25_Loyd_Carrier,Loyd
-japan-NC27,R Otsu
-japan-J19_Tiger_I_Jpn,HT No 6
-germany-PzVI,Tiger
-uk-GB63_TOG_II,TOG II
-germany-G106_PzKpfwPanther_AusfF,Panther 88
-germany-Sturer_Emil,Sturer Emil
+uk-GB31_Conqueror_Gun,Conqueror
+uk-GB63_TOG_II,HMS TOG
+uk-GB01_Medium_Mark_I_bot,Med I Bot
+uk-GB05_Vickers_Medium_Mk_II_bot,Med II Bot
+japan-J01_NC27,R Otsu
+japan-J01_NC27_bot,R Otsu Bot
+japan-J26_Type_89,I-Go
+japan-J23_Mi_To,O-I Exp
+japan-J19_Tiger_I_Jpn,Tiger #6
 japan-J25_Type_4,Type 4
 japan-J20_Type_2605,Type 5
-czech-Cz09_T_24,Skoda T24
-czech-Cz08_T_25,Skoda T25
-czech-Cz01_Skoda_T40,Skoda T40
-czech-Cz02_TVP_T50,Skoda T50
-usa-A78_M4_Improved,M4 Imp
-uk-GB87_Chieftain_T95_turret,Chief T95
-uk-GB86_Centurion_Action_X,Action X
-uk-GB24_Centurion_Mk3,Centurion 7
-japan-J26_Type_89,I-Go
-ussr-R118_T28_F30,T-28E
-ussr-R87_T62A_fallout,T-62A
-ussr-R120_T22SR_A22,T-22
-germany-Ltraktor_bot,LOL
-germany-G06_PzII,Pz II
-ussr-Object_907A,Obj 907A
-germany-G07_Pz35t,Pz 35t
-germany-G06_PzII_bot,Pz II
-germany-G82_Pz_II_AusfG,Pz II g
-germany-G36_PzII_J,Pz II J
-germany-G52_Pz38_NA,Pz 38 nA
-germany-G34_S35_captured,Pz S35
-germany-G91_Pro_Ag_A,Leopard A
-germany-G119_Panzer58,Pz 58
-germany-G21_PanzerJager_I,Pz Jag I
-germany-G65_JagdTiger_SdKfz_185_IGR,Jag 88
-germany-G65_JagdTiger_SdKfz_185,Jag 88
-germany-G93_GW_Mk_Vle,G Pz Mk VI
-germany-G22_Sturmpanzer_II,Sturm Pz II
-france-F15_AMX_12t,12 Ton
-france-F73_M4A1_Revalorise,M4 Ravioli
-japan-J23_Mi_To,O-I Exp
-china-Ch07_Vickers_MkE_Type_BT26,VAE B
-germany-G119_Pz58_Mutz,Pz Mutz
-germany-G46_T-25,Pz T-25
-france-F75_Char_de_25t,Batchat AP
-usa-A02_M2_lt,M2
-usa-T2_lt,T2
-usa-A24_T2_med,T2
-usa-A24_T2_med_bot,T2
-usa-A25_M2_med,M2
-ussr-R127_T44_100_P,T-44-100
-germany-G120_M41_90,Black Dog
-germany-G120_M41_90_GrandFinal,Black Dog
-germany-G17_JagdPzIV,Flat Pz
-germany-G39_Marder_III,Marder 38t
-germany-G45_G_Tiger,Tiger II
-usa-A68_T28_Prototype,T28 Prot
-germany-G93_GW_Mk_VIe,Pz Mk VI
-japan-NC27_bot,R Otsu
-ussr-R128_KV4_Kreslavskiy,Kreslavskiy
-ussr-R126_Object_730_5,Obj 268 5
-germany-G08_Pz38t,Pz 38t
-germany-G82_Pz_II_AusfG,Pz II G
-germany-T-15,Pz T-15
+czech-Cz06_Kolohousenka,Housenka
 czech-Cz03_LT_vz35,LT vz 35
 czech-Cz10_LT_vz38,LT vz 38
 czech-Cz11_V_8_H,ST vz 39
-czech-Cz06_Kolohousenka,Housenka
-unknown,Unknown
-noImage,Unknown
+
