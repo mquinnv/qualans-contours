@@ -3,13 +3,19 @@ WOT-DATA,2
 {{EN}},"Short tank names, in English"
 {{RU}},"Короткие названия, по-русски"
 {{Inherit}},NameShort/Wargaming
+ussr-R27_SU-14,Scumbus
+ussr-R134_Object_252U,Obj 252
+ussr-R133_KV_122,KV-122
+ussr-R31_Valentine_LL,Valentine
+ussr-R109_T54S,T-54
 ussr-R11_MS-1_bot,MS-1 Bot
 ussr-R03_BT-7,BT-7A
+ussr-R105_BT_7A,BT-7A
 ussr-R67_M3_LL,M3
-ussr-R109_T54S,T-54
 ussr-R118_T28_F30,T-28E
 ussr-R112_T54_45,T-54 M1
 ussr-R127_T44_100_P,T-44-100
+ussr-R60_Object416,Obj 416
 ussr-R104_Object_430_II,Obj 430 II
 ussr-R96_Object_430,Obj 430
 ussr-R97_Object_140,Obj 140
@@ -20,8 +26,9 @@ ussr-R95_Object_907A,Obj 907A
 ussr-R114_Object_244,Obj 244
 ussr-R128_KV4_Kreslavskiy,Kreslavskiy
 ussr-R110_Object_260,Obj 260
-ussr-R119_Object_777,Obj 777 II
+ussr-R119_Object_777,Obj 777
 ussr-R129_Object_257,Obj 257
+ussr-R32_Matilda_II_LL,Matilda 4
 ussr-R45_IS-7_fallout,IS-7
 ussr-R49_SU100Y,Boxtank
 ussr-R53_Object_704,Obj 704
@@ -29,8 +36,14 @@ ussr-R88_Object268,Obj 268
 ussr-R93_Object263,Obj 268
 ussr-R126_Object_730_5,Obj 268 5
 ussr-R52_Object_261,Obj 261
+ussr-R33_Churchill_LL,Churchill 3
+germany-G73_E50_Ausf_M,E-50 M
+germany-G56_E-100,E-100
+germany-G105_T-55_NVA_DDR,T-55A
+germany-G102_Pz_III,Pz III E
 germany-G12_Ltraktor,LOL
 germany-G12_Ltraktor_bot,LOL Bot
+germany-G21_PanzerJager_I,Pz Jäg I
 germany-G07_Pz35t,Pz 35t
 germany-G53_PzI,Pz I
 germany-G06_PzII_bot,Pz II Bot
@@ -44,7 +57,8 @@ germany-G82_Pz_II_AusfG,Pz II G
 germany-G50_T-15,Pz T-15
 germany-G36_PzII_J,Pz II J
 germany-G52_Pz38_NA, Pz 38 nA
-germany-G85_Auf_Panther,Awful Panther
+germany-G85_Auf_Panther,Awful Pz
+germany-G78_Panther_M10,Panth/M10
 germany-G120_M41_90,Blackdog
 germany-G120_M41_90_GrandFinal,Blackdog
 germany-G10_PzIII_AusfJ_training,Pz III
@@ -69,9 +83,10 @@ germany-G77_PzIV_Schmalturm,Schmalturm
 germany-G88_Indien_Panzer,Indien Pz
 germany-G106_PzKpfwPanther_AusfF,Panther 88
 germany-G119_Panzer58,Pz 58
+germany-G119_Panzer58_BF,Schwarz Pz
 germany-G119_Pz58_Mutz,Mutz
 germany-G91_Pro_Ag_A,Leopard A
-germany-G90_DW_II,Derpwagon
+germany-G90_DW_II,Derpwagen
 germany-G35_B-1bis_captured,Pz B2
 germany-G122_VK6501H,VK 65.01 H
 germany-G57_PzVI_Tiger_P,Tiger P
@@ -92,12 +107,28 @@ germany-G95_Pz_Sfl_IVb,Pz Sfl IV B
 germany-G49_G_Panther,Panther
 germany-G94_GW_Tiger_P,Tiger P
 germany-G45_G_Tiger,Tiger II
-germany-G61_G_E,E 100
+germany-G61_G_E,E-100
+germany-G55_E-75,E-75
+germany-G54_E-50,E-50
+germany-G48_E-25,E-25
 germany-G114_Rheinmetall_Skorpian,Skorpion
+germany-G13_VK3001H,VK 30.01H
+germany-G15_VK3601H,VK 36.01H
+germany-G122_VK6501H,VK 65.01H
+germany-G67_VK4502A,VK 45.02A
+germany-G58_VK4502P,VK 45.02B
+germany-G92_VK7201,VK 72.01K
+germany-G96_VK3002M,VK 30.02M
+germany-G87_VK3002DB_V1,VK 30.01D
+germany-G24_VK3002DB,VK 30.02D
+usa-A63_M46_Patton,Patton
+usa-A84_M48A1,Fatton
+usa-A117_T26E5,Patriot
+usa-A117_T26E5_Patriot,Patriot
 usa-A01_T1_Cunningham_bot,T1 Bot
 usa-A02_M2_lt,M2
 usa-A19_T2_lt,T2
-usa-A93_T7_Combat_Car,Combat Car
+usa-A93_T7_Combat_Car,T7 Car
 usa-A97_M41_Bulldog,Bulldog
 usa-A06_M4A3E8_Sherman_training,Easy 8
 usa-A24_T2_med,T2
@@ -111,27 +142,57 @@ usa-A09_T1_hvy,T1
 usa-A45_M6A2E1,Mutant
 usa-A67_T57_58,T57
 usa-A68_T28_Prototype,T28 Prot
-usa-A40_T95,Doom Turtle
-france-F62_ELC_AMX,ELC AMX
+usa-A40_T95,T95
+usa-A108_T18_HMC,T18
+usa-A27_T82,T82
+usa-A18_M41,M41
+france-F44_Somua_S35,S35
+france-F66_AMX_Ob_Am105,105
+france-F08_AMX_50_100,50 100
+france-F08_AMX_50_100,50 100
+france-F09_AMX_50_120,50 120
+france-F74_AMX_M4_1949_Liberte,Liberté
+france-F74_AMX_M4_1949,Liberté
+france-F62_ELC_AMX,ELC
+france-F05_BDR_G1B,BDR G1
+france-F07_AMX_M4_1945,M4 45
+france-F10_AMX_50B,50 B
+france-F10_AMX_50B_fallout,50 B
 france-F14_AMX40,Duck
 france-F15_AMX_12t,12 Ton
 france-F73_M4A1_Revalorise,Ravioli
-france-F75_Char_de_25t,Bat-Chat AP
+france-F75_Char_de_25t,Batchat AP
 france-F19_Lorraine40t,Lorraine
-france-F18_Bat_Chatillon25t,Bat-Chat
-france-F18_Bat_Chatillon25t_IGR,Bat-Chat
+france-F18_Bat_Chatillon25t,Batchat
+france-F18_Bat_Chatillon25t_IGR,Batchat
 france-F65_FCM_50t,50 Ton
-france-F10_AMX_50B_fallout,AMX 50 B
 france-F27_FCM_36Pak40,36 Pak 40
-france-F21_Lorraine39_L_AM,AMX 39L
-france-F66_AMX_Ob_Am105,AMX 105
-france-F22_AMX_105AM,AMX 13
-france-F28_105_leFH18B2_IGR,Lefty
-france-F28_105_leFH18B2,Lefty
-france-F24_Lorraine155_50,Lorr 155 50
-france-F25_Lorraine155_51,Lorr 155 51
+france-F21_Lorraine39_L_AM,39L
+france-F66_AMX_Ob_Am105,105
+france-F22_AMX_105AM,13 105
+france-F28_105_leFH18B2_IGR,leFH B2
+france-F28_105_leFH18B2,leFH B2
+france-F24_Lorraine155_50,Lorr 50
+france-F25_Lorraine155_51,Lorr 51
 france-F69_AMX13_57_100_GrandFinal,AMX 13 57
+france-F35_AMX_AC_Mle1946,AC 46
+france-F36_AMX_AC_Mle1948,AC 48
+france-F67_Bat_Chatillon155_55,B-C 55
+france-F38_Bat_Chatillon155_58,B-C 58
+france-F23_AMX_13F3AM,13 F3
+france-F16_AMX_13_75,13 75
+france-F69_AMX13_57_100,13 57
+france-F69_AMX13_57_100_GrandFinal,13 57
+france-F17_AMX_13_90,13 90
 china-Ch06_Renault_NC31_bot,NC-31 Bot
+china-Ch07_Vickers_MkE_Type_BT26,VAE B
+china-Ch12_111_1_2_3,WZ 1-4
+china-Ch01_Type59,Hype 59
+china-Ch09_M5,M5 Stuart
+uk-GB85_Cromwell_Berlin,Bromwell
+uk-GB23_Centurion,Centurion
+uk-GB39_Universal_CarrierQF2,UC QF2
+uk-GB50_Sherman_III,Sherman 3
 uk-GB35_Sentinel_AC_IV,AC 4
 uk-GB70_N_FV4202_105,FV4202 P
 uk-GB24_Centurion_Mk3,Cent 7/1
@@ -141,12 +202,13 @@ uk-GB52_A45,FV201 A45
 uk-GB88_T95_Chieftain_turret,T95
 uk-GB42_Valentine_AT,Valentine
 uk-GB40_Gun_Carrier_Churchill,Churchill
+uk-GB09_Churchill_VII,Churchill 7
 uk-GB48_FV215b_183,Deathstar
 uk-GB83_FV4005,Shitbarn
 uk-GB77_FV304,Bert
 uk-GB29_Crusader_5inch,Crusader
 uk-GB31_Conqueror_Gun,Conqueror
-uk-GB63_TOG_II,HMS TOG
+uk-GB63_TOG_II,TOG II
 uk-GB01_Medium_Mark_I_bot,Med I Bot
 uk-GB05_Vickers_Medium_Mk_II_bot,Med II Bot
 japan-J01_NC27,R Otsu
@@ -160,4 +222,9 @@ czech-Cz06_Kolohousenka,Housenka
 czech-Cz03_LT_vz35,LT vz 35
 czech-Cz10_LT_vz38,LT vz 38
 czech-Cz11_V_8_H,ST vz 39
-
+czech-Cz04_T50_51,T50/51
+czech-Cz02_TVP_T50,Skoda T50
+czech-Cz01_Skoda_T40,Skoda T40
+czech-Cz08_T_25,Skoda T25
+czech-Cz09_T_24,Skoda T24
+sweden-S01_Strv_74_A2,Strv m/42A2
