@@ -33,7 +33,7 @@ ussr-R45_IS-7_fallout,IS-7
 ussr-R49_SU100Y,Boxtank
 ussr-R53_Object_704,Obj 704
 ussr-R88_Object268,Obj 268
-ussr-R93_Object263,Obj 268
+ussr-R93_Object263,Obj 263
 ussr-R126_Object_730_5,Obj 268 5
 ussr-R52_Object_261,Obj 261
 ussr-R33_Churchill_LL,Churchill 3
@@ -121,10 +121,11 @@ germany-G92_VK7201,VK 72.01K
 germany-G96_VK3002M,VK 30.02M
 germany-G87_VK3002DB_V1,VK 30.01D
 germany-G24_VK3002DB,VK 30.02D
+usa-A38_T92,T92
 usa-A63_M46_Patton,Patton
 usa-A84_M48A1,Fatton
-usa-A117_T26E5,Patriot
-usa-A117_T26E5_Patriot,Patriot
+usa-A117_T26E5,T26E5
+usa-A117_T26E5_Patriot,T26E5 P
 usa-A01_T1_Cunningham_bot,T1 Bot
 usa-A02_M2_lt,M2
 usa-A19_T2_lt,T2
@@ -151,8 +152,8 @@ france-F66_AMX_Ob_Am105,105
 france-F08_AMX_50_100,50 100
 france-F08_AMX_50_100,50 100
 france-F09_AMX_50_120,50 120
-france-F74_AMX_M4_1949_Liberte,Liberté
-france-F74_AMX_M4_1949,Liberté
+france-F74_AMX_M4_1949_Liberte,M4 1949 L
+france-F74_AMX_M4_1949,M4 1949
 france-F62_ELC_AMX,ELC
 france-F05_BDR_G1B,BDR G1
 france-F07_AMX_M4_1945,M4 45
