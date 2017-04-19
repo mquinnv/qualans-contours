@@ -37,6 +37,9 @@ ussr-R93_Object263,Obj 263
 ussr-R126_Object_730_5,Obj 268 5
 ussr-R52_Object_261,Obj 261
 ussr-R33_Churchill_LL,Churchill 3
+ussr-R132_VNII_100LT,T-100
+germany-G125_Spz_57_Rh,Pzwagen
+germany-G92_VK7201P,Panzer VII
 germany-G73_E50_Ausf_M,E-50 M
 germany-G56_E-100,E-100
 germany-G105_T-55_NVA_DDR,T-55A
@@ -125,7 +128,7 @@ usa-A38_T92,T92
 usa-A63_M46_Patton,Patton
 usa-A84_M48A1,Fatton
 usa-A117_T26E5,T26E5
-usa-A117_T26E5_Patriot,T26E5 P
+usa-A117_T26E5_Patriot,Patriot
 usa-A01_T1_Cunningham_bot,T1 Bot
 usa-A02_M2_lt,M2
 usa-A19_T2_lt,T2
@@ -152,7 +155,7 @@ france-F66_AMX_Ob_Am105,105
 france-F08_AMX_50_100,50 100
 france-F08_AMX_50_100,50 100
 france-F09_AMX_50_120,50 120
-france-F74_AMX_M4_1949_Liberte,M4 1949 L
+france-F74_AMX_M4_1949_Liberte,Liberté
 france-F74_AMX_M4_1949,M4 1949
 france-F62_ELC_AMX,ELC
 france-F05_BDR_G1B,BDR G1
@@ -185,6 +188,7 @@ france-F16_AMX_13_75,13 75
 france-F69_AMX13_57_100,13 57
 france-F69_AMX13_57_100_GrandFinal,13 57
 france-F17_AMX_13_90,13 90
+france-F88_AMX_13_105,13 105
 china-Ch06_Renault_NC31_bot,NC-31 Bot
 china-Ch07_Vickers_MkE_Type_BT26,VAE B
 china-Ch12_111_1_2_3,WZ 1-4
