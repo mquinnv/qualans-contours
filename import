@@ -1,0 +1,4 @@
+#!/bin/sh
+cp /c/Games/World_of_Tanks/res_mods/*/gui/flash/atlases/Battle* res/gui/flash/atlases/
+cp /c/Games/World_of_Tanks/res_mods/*/gui/flash/atlases/vehicle* res/gui/flash/atlases/
+cp /c/Games/World_of_Tanks/res_mods/0.9.19.1.2/gui/maps/icons/vehicle/contour/* res/gui/maps/icons/vehicle/contour/
