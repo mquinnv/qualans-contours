@@ -3,6 +3,7 @@ WOT-DATA,2
 {{EN}},"Short tank names, in English"
 {{RU}},"Короткие названия, по-русски"
 {{Inherit}},NameShort/Wargaming
+ussr-R140_M4_Loza,Loza's M4
 ussr-R27_SU-14,Scumbus
 ussr-R134_Object_252U,Obj 252
 ussr-R133_KV_122,KV-122
@@ -127,7 +128,7 @@ usa-A25_M2_med_bootcamp,M2
 usa-A115_Chrysler_K,Chrysler K
 usa-A63_M46_Patton,Patton
 usa-A84_M48A1,Fatton
-usa-A117_T26E5,Patriot
+usa-A117_T26E5,T26E5
 usa-A117_T26E5_Patriot,Patriot
 usa-A01_T1_Cunningham_bot,T1 Bot
 usa-A02_M2_lt,M2
@@ -158,7 +159,7 @@ france-F08_AMX_50_100,50 100
 france-F08_AMX_50_100,50 100
 france-F09_AMX_50_120,50 120
 france-F74_AMX_M4_1949_Liberte,Liberté
-france-F74_AMX_M4_1949,Liberté
+france-F74_AMX_M4_1949,M4 1949
 france-F62_ELC_AMX,ELC
 france-F05_BDR_G1B,BDR G1
 france-F07_AMX_M4_1945,M4 45
@@ -217,6 +218,7 @@ uk-GB31_Conqueror_Gun,Conqueror
 uk-GB63_TOG_II,TOG II
 uk-GB01_Medium_Mark_I_bot,Med I Bot
 uk-GB05_Vickers_Medium_Mk_II_bot,Med II Bot
+uk-GB91_Super_Conqueror,Conqueror
 japan-J01_NC27,R Otsu
 japan-J01_NC27_bot,R Otsu Bot
 japan-J26_Type_89,I-Go
@@ -234,4 +236,4 @@ czech-Cz01_Skoda_T40,Skoda T40
 czech-Cz08_T_25,Skoda T25
 czech-Cz09_T_24,Skoda T24
 sweden-S01_Strv_74_A2,Strv m/42A2
-sweden-S23_Strv_81_sabaton,Strv 81
+sweden-S23_Strv_81_sabaton,P:Victoria
